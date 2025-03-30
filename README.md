@@ -1,4 +1,4 @@
-
+# microglia-spora25
 Upon opening the notebook, you will find an attempt at graphing the Blood Brain Barrier (BBB) with glucose availability. 
 However, we decided not to include these graphs in the submission as they did not capture the information we had hoped for.
 Afterward, you will find the graphs that were generated during the analysis process. To locate the ones used in the submission, refer to the graphs folder.
